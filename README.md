@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PritHingrajiya07/leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/PritHingrajiya07/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/PritHingrajiya07/leetcode/tree/master/0141-linked-list-cycle) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -103,12 +104,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PritHingrajiya07/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0141-linked-list-cycle](https://github.com/PritHingrajiya07/leetcode/tree/master/0141-linked-list-cycle) |
 | [0861-flipping-an-image](https://github.com/PritHingrajiya07/leetcode/tree/master/0861-flipping-an-image) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/PritHingrajiya07/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PritHingrajiya07/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0141-linked-list-cycle](https://github.com/PritHingrajiya07/leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/PritHingrajiya07/leetcode/tree/master/0206-reverse-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/PritHingrajiya07/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Database
