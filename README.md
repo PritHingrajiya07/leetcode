@@ -140,4 +140,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1801-average-time-of-process-per-machine](https://github.com/PritHingrajiya07/leetcode/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/PritHingrajiya07/leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/PritHingrajiya07/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/PritHingrajiya07/leetcode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/PritHingrajiya07/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
