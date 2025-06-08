@@ -5,4 +5,4 @@ FROM users u JOIN register r
     ON u.user_id = r.user_id
     
 group by contest_id 
-order by 2 DESC, 1;
+order by 2 DESC,1;
